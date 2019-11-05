@@ -6,8 +6,8 @@
  */
 
 #include "DIO.h"
-#include "../../2.Libraries/BIT_MATH.h"
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/BIT_MATH.h"
+#include "../../Libraries/STD_TYPES.h"
 
 
 u8 DIO_u8SetPinDirection(u8 u8PortNO , u8 u8PinNO , u8 u8Dir )

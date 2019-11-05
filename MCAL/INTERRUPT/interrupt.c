@@ -1,7 +1,7 @@
 #include "interrupt.h"
 #include "interrupt_private.h"
-#include "..\..\2.Libraries\BIT_MATH.h"
-#include "..\..\2.Libraries\STD_TYPES.h"
+#include "..\..\Libraries\BIT_MATH.h"
+#include "..\..\Libraries\STD_TYPES.h"
 #include "..\DIO\DIO.h"
 
 /* GLOBAL Pointers to the callback functions (Will be called inside ISRs) */

@@ -1,5 +1,5 @@
-#include "../../../2.Libraries/BIT_MATH.h"
-#include "../../../2.Libraries/STD_TYPES.h"
+#include "../../../Libraries/BIT_MATH.h"
+#include "../../../Libraries/STD_TYPES.h"
 #include "../../INTERRUPT/interrupt.h"
 #include "../../DIO/DIO.h"
 #include "timer0_int.h"

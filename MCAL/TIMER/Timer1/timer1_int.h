@@ -8,7 +8,7 @@
 #ifndef _TIMER1_INT_H_
 #define _TIMER1_INT_H_
 
-#include "../../../2.Libraries/STD_TYPES.h"
+#include "../../../Libraries/STD_TYPES.h"
 #include "timer1_config.h"
 #include "timer1_priv.h"
 

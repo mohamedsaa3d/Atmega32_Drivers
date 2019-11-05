@@ -8,7 +8,7 @@
 #ifndef DIO_INTERFACE_H_
 #define DIO_INTERFACE_H_
 
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/STD_TYPES.h"
 #include "DIO_private.h"
 
 /*###########################################*/

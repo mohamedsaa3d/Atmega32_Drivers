@@ -9,8 +9,8 @@
 #define _EEPROM_INT_H_
 
 #include "eeprom_config.h"
-#include "../../2.Libraries/STD_TYPES.h"
-#include "../../2.Libraries/BIT_MATH.h"
+#include "../../Libraries/STD_TYPES.h"
+#include "../../Libraries/BIT_MATH.h"
 
 u8 EEPROM_u8WriteBYTE(u8 BYTE ,u16 ByteNO);
 u8 EEPROM_u8ReadBYTE( u16 ByteNO , u8 *DATE_BYTE );

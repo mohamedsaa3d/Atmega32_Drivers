@@ -10,7 +10,7 @@
 
 #include "interrupt_private.h"
 #include "interrupt_config.h"
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/STD_TYPES.h"
 
 
 #define RESET_vect                 __vector_0

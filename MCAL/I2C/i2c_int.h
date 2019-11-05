@@ -8,7 +8,7 @@
 #ifndef _I2C_INT_H_
 #define _I2C_INT_H_
 
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/STD_TYPES.h"
 #include"i2c_priv.h"
 #include "i2c_config.h"
 

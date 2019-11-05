@@ -2,9 +2,9 @@
 #ifndef LCD_INTERFACE_H_
 #define LCD_INTERFACE_H_
 
-#include "../../2.Libraries/BIT_MATH.h"
-#include "../../2.Libraries/STD_TYPES.h"
-#include "..\..\4.MCAL\DIO\DIO.h"
+#include "../../Libraries/BIT_MATH.h"
+#include "../../Libraries/STD_TYPES.h"
+#include "../../MCAL/DIO/DIO.h"
 #include "LCD_CONFIG.h"
 
 /* LCD Commands Binary Codes */

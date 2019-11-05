@@ -1,7 +1,7 @@
 #ifndef _UART_INT_H_
 #define _UART_INT_H_
 
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/STD_TYPES.h"
 #include "uart_priv.h"
 #include "uart_config.h"
 

@@ -8,10 +8,10 @@
 #ifndef _STEPPER_H_
 #define _STEPPER_H_
 
-#include "../../2.Libraries/BIT_MATH.h"
-#include "../../2.Libraries/STD_TYPES.h"
-#include "..\..\4.MCAL\DIO\DIO.h"
-#include "..\..\3.HAL\KEYPAD\keypad.h"
+#include "../../Libraries/BIT_MATH.h"
+#include "../../Libraries/STD_TYPES.h"
+#include "../../MCAL/DIO/DIO.h"
+#include "../../HAL/KEYPAD/keypad.h"
 
 #define STEPPER_PORT     PORT_A
 #define STEPPER_BLUE     PIN4

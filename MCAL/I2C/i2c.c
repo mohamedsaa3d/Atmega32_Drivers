@@ -1,4 +1,4 @@
-#include "../../2.Libraries/BIT_MATH.h"
+#include "../../Libraries/BIT_MATH.h"
 #include "i2c_int.h"
 #include "../DIO/DIO.h"
 

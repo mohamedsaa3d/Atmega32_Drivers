@@ -1,7 +1,7 @@
-#include "../../4.MCAL/I2C/i2c_int.h"
+#include "../../MCAL/I2C/i2c_int.h"
 #include "eeprom_int.h"
 
-#include "../../3.HAL/LCD/LCD_interface.h"
+#include "../../HAL/LCD/LCD_interface.h"
 #include "util/delay.h"
 
 extern u8 TargetSlaveADDRESS;

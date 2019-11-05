@@ -1,10 +1,10 @@
 #ifndef KEYPAD_H_
 #define KEYPAD_H_
 
-#include "..\..\4.MCAL\DIO\DIO.h"
+#include "../../MCAL/DIO/DIO.h"
 #include "util/delay.h"
-#include "../../2.Libraries/BIT_MATH.h"
-#include "../../2.Libraries/STD_TYPES.h"
+#include "../../Libraries/BIT_MATH.h"
+#include "../../Libraries/STD_TYPES.h"
 
 #define KEYPAD_PORT PORT_D
 

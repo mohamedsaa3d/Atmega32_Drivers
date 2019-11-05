@@ -8,8 +8,8 @@
 #ifndef SEVEN_SEG_H_
 #define SEVEN_SEG_H_
 
-#include "../../2.Libraries/STD_TYPES.h"
-#include "..\..\4.MCAL\DIO\DIO.h"
+#include "../../Libraries/STD_TYPES.h"
+#include "../../MCAL/DIO/DIO.h"
 
 #define ZERO   0
 #define ONE    1
